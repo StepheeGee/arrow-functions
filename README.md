@@ -28,7 +28,7 @@ I think arrow functions will be a manageable adjustment after some practice. It 
 How long you spent working on this assignment?
 A little over an hour.
 
-PR: [Pull Request](https://github.com/StepheeGee/arrow-functions/pull/1)
+PR: [Pull Request 1](https://github.com/StepheeGee/arrow-functions/pull/1)
 
-
+[Pull Request 2](https://github.com/StepheeGee/arrow-functions/pull/2/)
 
