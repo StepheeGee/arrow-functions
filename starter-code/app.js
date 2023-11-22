@@ -194,6 +194,7 @@ Student.prototype.greeting = function() {
 // TODO: Uncomment the following line of code to see the output in the browser console
 // Note that the arrow function will cause this method to break!
 //WHYYYYY....I don't understand why an arrow function caused the last two functions to break
+// Nvmd - found the answer in our resources - It happens because arrow functions retain the this value of the enclosing functional scope. Therefore, you will want to avoid using an arrow function in a constructor (where we need the contextual this to be the object we are building) or any method that needs to use this to behave properly.
 console.log(joe.greeting());
 
 // TODO: After viewing the previous console.log(), return the code to a working state.
