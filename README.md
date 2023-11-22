@@ -9,6 +9,11 @@ An exercise in converting traditional functions into arrow functions, and acknow
 
 ### Author: Stephanie G Johnson
 
+### Resources:
+
+[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
+[Caniuse](https://caniuse.com/#search=arrow%20functions)
 
 ### Comments
 
@@ -24,5 +29,6 @@ How long you spent working on this assignment?
 A little over an hour.
 
 PR: [Pull Request](https://github.com/StepheeGee/arrow-functions/pull/1)
+
 
 
